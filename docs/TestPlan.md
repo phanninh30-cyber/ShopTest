@@ -5,6 +5,7 @@ Sinh viên: Ninh | Môn: Kiểm thử nâng cao cùng AI (Java) | Phiên bản: 
 ## 1. Mục tiêu
 Kiểm thử tự động các chức năng Đăng ký, Đăng nhập, Phân quyền và CRUD Danh mục của ứng dụng ShopTest, nhằm phát hiện lỗi sớm và chạy lại nhanh mỗi khi code thay đổi.
 
+---
 ## 2. Phạm vi
 - Trong phạm vi:
   - Kiểm tra dữ liệu đầu vào (unit test, JUnit 5).
